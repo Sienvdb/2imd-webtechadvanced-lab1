@@ -1,0 +1,27 @@
+body {
+    background-color: lightcoral;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+ul li a {
+    color: white;
+}
+
+ul li {
+    list-style: none;
+}
+
+.chatbox {
+    color: white;
+}
+
+.tagging {
+    color: white;
+}
